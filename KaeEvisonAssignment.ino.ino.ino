@@ -264,7 +264,6 @@ void loop()
           motors.setLeftSpeed(0);
           motors.setRightSpeed(0);
           //scan
-          Serial.println(i);
           delay(500);
         }
         delay(1000);
